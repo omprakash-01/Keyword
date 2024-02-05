@@ -5,6 +5,7 @@
 }
 table,th,td{
     border: 1px solid #e7e737;
+    padding: 10PX;
 }
 .project{
     background-color: #1c1c1c;
@@ -14,6 +15,7 @@ table,th,td{
     justify-content: center;
     text-align: center;
     height: 100vh;
+    font-size: 20PX;
 }
 .color{
     color: aliceblue;
